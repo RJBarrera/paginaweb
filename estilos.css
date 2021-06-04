@@ -74,7 +74,7 @@ ul.show {
     }
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 858px) {
     .menu {
         height: 65px;
     }
@@ -108,7 +108,7 @@ ul.show {
         padding-left: 35px;
     }
     .header h1{
-        font-size: 2.3rem;
+        font-size: 1.6rem;
     }
     .icono h3 {
     text-transform: uppercase;
