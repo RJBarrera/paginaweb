@@ -74,7 +74,7 @@ ul.show {
     }
 }
 
-@media screen and (max-width: 858px) {
+@media screen and (max-width: 1080px) {
     .menu {
         height: 65px;
     }
