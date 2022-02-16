@@ -87,7 +87,7 @@ ul.show {
         display: inline-flex;
     }
     .menu_items {
-        position: fixed;
+        position: absolute;
         width: 100vw;
         height: calc(100% - 65px);
         background: #414141;
